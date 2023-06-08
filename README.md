@@ -16,7 +16,7 @@ The most challengign concpet to impelment was to know whichc cordinates of the t
 
 The challge I enjoyed the most was figuring out the mtah for the circle created 4 colors ebing able to keep track where each color is within each circle as they each roatate.
 
-The planning and concepts of these challehnging are ilustrated in the file demos labled "ColorSwitch Whiteboard Diagrams."
+The planning and concepts of these challehnging are ilustrated in the file demos labled "ColorSwitchWhiteboardDiagrams.pdf"
 
 Once everythign was set up thee function playGame() drievs the entire file to create the seamless final output game of Color Switch.py.
 
