@@ -256,7 +256,7 @@ def ballHitStar(targets, ballY, score):
 	return False
 
 def getYtop(bally):
-	#get yTop
+	#get yTop: wherever ballY is - 400, to get to the large Y of the viewing window
 	return bally - 400
 
 def playGame(targets):
